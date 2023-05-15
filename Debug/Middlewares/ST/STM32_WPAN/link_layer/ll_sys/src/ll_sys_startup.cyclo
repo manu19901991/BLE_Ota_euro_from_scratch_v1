@@ -1,0 +1,3 @@
+ll_sys_startup.c:26:13:ll_sys_event_missed_cb	1
+ll_sys_startup.c:36:6:ll_sys_ble_cntrl_init	1
+ll_sys_startup.c:57:13:ll_sys_dependencies_init	1

@@ -1,0 +1,6 @@
+stm32wbaxx_ll_bus.h:448:22:LL_AHB2_GRP1_EnableClock	1
+stm32wbaxx_ll_bus.h:518:22:LL_AHB2_GRP1_DisableClock	1
+hw_aes.c:47:5:HW_AES_Enable	2
+hw_aes.c:71:6:HW_AES_SetKey	6
+hw_aes.c:136:6:HW_AES_Crypt	2
+hw_aes.c:160:6:HW_AES_Disable	2

@@ -1,0 +1,16 @@
+gatt_client_app.c:137:6:GATT_CLIENT_APP_Init	2
+gatt_client_app.c:160:6:GATT_CLIENT_APP_Notification	3
+gatt_client_app.c:195:9:GATT_CLIENT_APP_Set_Conn_Handle	2
+gatt_client_app.c:212:9:GATT_CLIENT_APP_Get_State	1
+gatt_client_app.c:217:6:GATT_CLIENT_APP_Discover_services	1
+gatt_client_app.c:227:9:GATT_CLIENT_APP_Procedure_Gatt	10
+gatt_client_app.c:359:30:Event_Handler	13
+gatt_client_app.c:460:20:gatt_Notification	1
+gatt_client_app.c:492:13:gatt_parse_services	13
+gatt_client_app.c:592:13:gatt_parse_services_by_UUID	2
+gatt_client_app.c:618:13:gatt_parse_chars	14
+gatt_client_app.c:717:13:gatt_parse_descs	12
+gatt_client_app.c:835:13:gatt_parse_notification	1
+gatt_client_app.c:847:13:client_discover_all	1
+gatt_client_app.c:853:13:gatt_cmd_resp_release	1
+gatt_client_app.c:859:13:gatt_cmd_resp_wait	1

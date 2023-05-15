@@ -1,0 +1,5 @@
+app_debug.c:26:6:APP_DEBUG_SIGNAL_SET	2
+app_debug.c:32:6:APP_DEBUG_SIGNAL_RESET	2
+app_debug.c:39:6:APP_DEBUG_SIGNAL_TOGGLE	2
+app_debug.c:54:6:RT_DEBUG_GPIO_Init	3
+app_debug.c:80:17:GPIO_PORT_TO_PWR_NUM	5
